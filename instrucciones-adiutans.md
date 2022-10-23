@@ -2,7 +2,7 @@
 
 Pasos a seguir:
 
-📍 Dentro de Telegram, busca el bot llamado "Adiutans ATM".
+📍 Dentro de Telegram, busca el bot llamado "[Adiutans ATM](https://t.me/adiutans_bot)".
 
 📍 Presiona o da tap a "START/INICIAR"
 
