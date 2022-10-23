@@ -12,5 +12,8 @@ Pasos a seguir:
 
 📍 ¡Encuentra tu cajero ideal con base en el informe presentado! 💯
 
+![Cap 1](./images/adiutans-1.jpeg)
+![Cap 2](./images/adiutans-2.jpeg)
+
 
 Made with :heart: by [X-Women Team](https://github.com/x-women-mx)

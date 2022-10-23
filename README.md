@@ -31,6 +31,23 @@ Las instrucciones para el uso del asistente se encuentran [aquí](https://github
 
 ---
 
+### 🛠 Trabajo a futuro
+
+####  Visualización de los mapas integrados
+Se logró la visualización por medio de mapas de calor que muestran las zonas con más unidades y la proximidad entre ellas.
+
+Sin embargo, se continuará trabajando en la integración en la plataforma respectiva.
+
+![Mapa 1](./images/mapaCalor.png)
+![Mapa 1](./images/mapaCalor2.png)
+
+#### Dashboard enfocado a usuarios corporativos
+
+Se presenta un dashboard con el informe para usuarios corporativos o grupos VIP
+
+![Dashboard 1](./images/dashboard1.png)
+![Dashboard 2](./images/dashboard.png)
+
 ### ✒️ Autoras
 
 * **Mónica Portillo** - *Web Development, Design, Documentation, Maps Integration* -  [Moni Portillo](https://github.com/monicaps)
