@@ -27,7 +27,7 @@ El proyecto estará implementando servicios en la nube de Google Cloud Platform 
 + Cloud Storage
 + Integración de APIs para Geolocalización
 
-Las instrucciones para el uso del asistente se encuentran [aquí](../instrucciones-adiutans.md)
+Las instrucciones para el uso del asistente se encuentran [aquí](https://github.com/aleepsy/Hack-BBVA-2022/blob/main/instrucciones-adiutans.md)
 
 ---
 
