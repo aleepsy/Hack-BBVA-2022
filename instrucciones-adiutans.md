@@ -10,7 +10,7 @@ Pasos a seguir:
 
 📍 Proporciona los datos necesarios para que el bot muestre información relevante cerca de tu zona.
 
-📍 ¡Encuentra tu cajero ideal con base en el informe presnetado! 💯
+📍 ¡Encuentra tu cajero ideal con base en el informe presentado! 💯
 
 
 Made with :heart: by [X-Women Team](https://github.com/x-women-mx)
