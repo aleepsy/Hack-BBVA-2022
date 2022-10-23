@@ -38,16 +38,17 @@ Se logró la visualización por medio de mapas de calor que muestran las zonas c
 
 Sin embargo, se continuará trabajando en la integración en la plataforma respectiva.
 
-![Mapa 1](./images/mapaCalor.png)
-![Mapa 1](./images/mapaCalor2.png)
+![Mapa 1](./images/MapaCalor.png)
+![Mapa 1](./images/MapaCalor2.png)
 
 #### Dashboard enfocado a usuarios corporativos
 
 Se presenta un dashboard con el informe para usuarios corporativos o grupos VIP
 
-![Dashboard 1](./images/dashboard1.png)
-![Dashboard 2](./images/dashboard.png)
+![Dashboard 1](./images/dashboard1.PNG)
+![Dashboard 2](./images/dashboard.PNG)
 
+---
 ### ✒️ Autoras
 
 * **Mónica Portillo** - *Web Development, Design, Documentation, Maps Integration* -  [Moni Portillo](https://github.com/monicaps)
