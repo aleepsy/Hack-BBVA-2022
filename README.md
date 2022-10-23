@@ -41,6 +41,8 @@ Sin embargo, se continuará trabajando en la integración en la plataforma respe
 ![Mapa 1](./images/MapaCalor.png)
 ![Mapa 1](./images/MapaCalor2.png)
 
+Además, se comenzó a trabajar con el modelo de predicción (forecast) de fallas de los cajeros a través de un modelo de regresión lineal, no obstánte se seguirá trabajando en él para mejores resultados y posterior implementación en AuditansATM.
+
 #### Dashboard enfocado a usuarios corporativos
 
 Se presenta un dashboard con el informe para usuarios corporativos o grupos VIP
